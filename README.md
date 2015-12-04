@@ -20,7 +20,7 @@ If the command `new-wp` does not do anything after the installation, enter:
 
 ##Configuration
 
-When installed, be sure to edit the ~/new-wp.sh file and enter correct WP-CLI, PHP and MySQL binaries paths.
+When installed, edit the ~/new-wp.sh file and enter the correct paths to WP-CLI, PHP and MySQL binaries.
 
 ##Usage
 new-wp
