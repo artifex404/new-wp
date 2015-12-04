@@ -14,9 +14,13 @@ Run this command in a terminal:
 
 `curl -sS https://raw.githubusercontent.com/artifex404/new-wp/master/installer.sh | bash`
 
+If the command `new-wp` does not do anything after the installation, enter:
+
+`source ~/.bash_profile`
+
 ##Configuration
 
-When installed, be sure to edit the ~/new-wp.sh file and enter correct WP-CLi, PHP and MySQL binaries paths.
+When installed, be sure to edit the ~/new-wp.sh file and enter correct WP-CLI, PHP and MySQL binaries paths.
 
 ##Usage
 new-wp
