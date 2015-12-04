@@ -5,9 +5,9 @@ Initial configuration is setup to work the latest MAMP Pro installation on a Mac
 
 ##Requirements
 
-[WP-CLI](http://wp-cli.org/)
-PHP
-MySQL
+* [WP-CLI](http://wp-cli.org/)
+* PHP
+* MySQL
 
 ##Installation
 Run this command in a terminal:
