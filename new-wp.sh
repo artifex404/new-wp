@@ -4,7 +4,7 @@
 ## Downloads and installs a local WordPress with interactive command line configuration
 ##
 ## For more information see:
-## https://github.com/artifex404/new-wp
+## https://github.com/artifex404/new-wp/
 
 #########   CONFIGURATION   #########
 
