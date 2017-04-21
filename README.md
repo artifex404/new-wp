@@ -1,7 +1,7 @@
 # new-wp
 Downloads and installs a local WordPress. Asks interactively on command line for required configuration settings.
 
-Initial configuration is setup to work the latest MAMP Pro installation on a Mac OS X 10.11.
+Default configuration file is setupup to work with the latest MAMP Pro on a Mac OS X 10.11.
 
 ## Requirements
 
